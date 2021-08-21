@@ -1,0 +1,684 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <title>Accoladesigns Designing & Branding</title>
+    <meta name="description" content="Accoladesigns Is A Unique Melange of Website Designing, Brand Consultancy, Branding & Identity, Advertising & Marketing, Print & Production.">
+    <meta name="keywords" content="Accoladesigns, accoladesign, graphic design, web design, website design, website builder, webdesign, ecommerce website, web design company, website creator, responsive web design, web development company, web page design, web application development, web agency,branding,marketing,seo,video,3d video model,vfx,final cut pro,affter effects, photoshop, corel draw, illustrator,website in mumbai,website in india, ecommerce website in mumbai, ecommerce website in india,">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' id='wpblank-css' href='/assets/css/style.css?ver=1.0' media='all' />
+    <link rel="shortcut icon" type="image/png"  href="/assets/img/fbrfg/favicon.png">
+    <meta name="theme-color" content="#ffffff">
+	<style>
+	</style>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '161183674587786');
+  fbq('track', 'PageView');
+</script>
+<noscript> <img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=161183674587786&ev=PageView&noscript=1" alt="Facebook"
+/> </noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67782900-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-67782900-1');
+</script>
+
+</head>
+<body class=" home page-template-default page page-id-214">
+
+    <div class="page-loader">
+
+        <div> <img  src="/assets/img/logo/accola.png" alt="Accoladesigns Loader "></div>
+
+    </div>
+
+    <div class="builtburger" offset-hover-max=".5" offset-hover-min=".5">
+
+        <div></div>
+
+        <div></div>
+
+        <div></div>
+
+        <div></div>
+
+        <div></div>
+
+    </div>
+
+<section class="builtnav">
+
+        <nav class="builtnav--nav">
+
+            <ul>
+
+                <li class="builtnav--item">
+
+                    <a class="builtnav--link" href="/work">
+
+                        <div class="builtnav--tita">
+
+                            wo
+
+                        </div><!-- nospace--><div class="builtnav--beetween">
+
+                            <div class="builtnav--stroke"></div>
+
+                            <div class="builtnav--text">
+
+                                our projects </div>
+
+                        </div><!-- nospace--><div class="builtnav--titb">
+
+                            rk
+
+                        </div>
+
+                    </a>
+
+                </li>
+
+                <li class="builtnav--item">
+
+                    <a class="builtnav--link" href="/studio">
+
+                        <div class="builtnav--tita">
+
+                            stu
+
+                        </div><!-- nospace--><div class="builtnav--beetween">
+
+                            <div class="builtnav--stroke"></div>
+
+                            <div class="builtnav--text">
+
+                                who we are </div>
+
+                        </div><!-- nospace--><div class="builtnav--titb">
+
+                            dio
+
+                        </div>
+
+                    </a>
+
+                </li>
+
+                <li class="builtnav--item">
+
+                    <a class="builtnav--link" href="/hire">
+
+                        <div class="builtnav--tita">
+
+                            hire
+
+                        </div><!-- nospace--><div class="builtnav--beetween">
+
+                            <div class="builtnav--stroke"></div>
+
+                            <div class="builtnav--text">
+
+                                like our work </div>
+
+                        </div><!-- nospace--><div class="builtnav--titb">
+
+                            us
+
+                        </div>
+
+                    </a>
+
+                </li>
+
+                <li class="builtnav--item">
+
+                    <a class="builtnav--link" href="/contact">
+
+                        <div class="builtnav--tita">
+
+                            cont
+
+                        </div><!-- nospace--><div class="builtnav--beetween">
+
+                            <div class="builtnav--stroke"></div>
+
+                            <div class="builtnav--text">
+
+                                Send us a little bird </div>
+
+                        </div><!-- nospace--><div class="builtnav--titb">
+
+                            act
+
+                        </div>
+
+                    </a>
+
+                </li>
+
+            </ul>
+
+        </nav>
+
+
+
+
+    </section>
+
+    <div class="builtnav--back"></div>
+
+
+    <a href="/" class="builtlogo">
+
+	<img class="builtlogo--svg base--top" src="/assets/img/logo/built.png" alt="BuiltByGeeks Logo">
+
+	<img class="builtlogo--svg hover--top" src="/assets/img/logo/accola.png" alt="AccolaDesigns Logo">   
+
+  
+
+		</a>
+
+    <div class="global-container">
+
+        <div class="scroll-container">
+
+            <div class="page-container" data-slug="page">
+
+                <section class="page-content">
+                    <div class="homehead video_back">
+
+                        <div class="homehead--center" offset-hover-max=".30" offset-hover-min=".30">
+
+                            <div>hello</div>
+
+                            <div>Welcome</div>
+
+                            <div>at Accoladesigns</div>
+
+                        </div>
+                        <div class="scrollto">
+
+                            <div>What's up ?</div>
+
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+                                <path d="M24.2 46l-3.5-3.5L9.9 31.7c-1-1-1-2.5 0-3.5s2.5-1 3.5 0l8.4 8.4V2.8h4.9v33.8l8.4-8.4c1-1 2.5-1 3.5 0s1 2.5 0 3.5l-11 10.8-3.4 3.5z"
+                                />
+                            </svg>
+                        </div>
+
+                    </div>
+
+                    <div class="bsplit scroll-reveal" image="left">
+                        <div class="bsplit--bg"></div>
+                        <div class="bsplit--inner">
+                            <div class="bsplit--content clearfix">
+                                <div class="grotxt">
+
+                                    <p class="p1">
+                                        <span class="s1">Accoladesigns Is A Unique Melange Of Websites, Brand Consultancy, Branding & Identity,
+                                            Advertising & Marketing, Print & Production.</span>
+                                    </p>
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="bsplit--imgc">
+
+                            <div class="imgcrop imgcrop__nope-smartphone">
+
+                                <img data-src="assets/img/2017/08/pattern.jpg" data-srcset="assets/img/2017/08/pattern.jpg 300w, assets/img/2017/08/pattern.jpg 150w, assets/img/2017/08/pattern.jpg 768w, assets/img/2017/08/pattern.jpg 1024w, assets/img/2017/08/pattern.jpg 1920w"
+                                    alt="Accoladesign website in mobile">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+
+
+
+
+                    <section class="cards cards__page clearfix">
+
+
+
+                        <article id="card-499" class="card post-499 post type-post status-publish format-standard hentry category-non-classe-en">
+
+                            <a class="card--link scroll-reveal" href="work/diastar/">
+
+                                <div class="card--bg">
+
+                                    <div class="card--bg-inner">
+
+                                        <div class="card--bg-superinner">
+
+                                            <div class="imgcrop">
+
+                                                <img data-src="assets/img/2017/08/ernestborel.jpg" data-srcset="assets/img/2017/08/ernestborel.jpg 300w, assets/img/2017/08/ernestborel.jpg 150w, assets/img/2017/08/ernestborel.jpg 768w, assets/img/2017/08/ernestborel.jpg 1024w, assets/img/2017/08/ernestborel.jpg 1920w"
+                                                    alt="Diastar Cover page">
+
+                                               
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div class="card--infos">
+
+                                    <div class="card--infos-inner">
+
+                                        <div class="card--infos-inner-bg"></div>
+
+                                        <div class="headline">
+
+                                            <h2 class="headline--title">Diastar Inc.</h2>
+
+                                            <h3 class="headline--subtitle">
+
+                                                <div class="headline--stroke"></div>
+
+                                                <span></span>
+
+                                            </h3>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </a>
+
+                        </article>
+
+
+
+                        <article id="card-569" class="card post-569 post type-post status-publish format-standard hentry category-non-classe-en">
+
+                            <a class="card--link scroll-reveal" href="work/kashross/">
+
+                                <div class="card--bg">
+
+                                    <div class="card--bg-inner">
+
+                                        <div class="card--bg-superinner">
+
+                                            <div class="imgcrop">
+
+                                                <img data-src="assets/img/2017/08/superdancer.jpg" data-srcset="assets/img/2017/08/superdancer.jpg 300w, /assets/img/2017/08/superdancer.jpg 150w, assets/img/2017/08/superdancer.jpg 768w, assets/img/2017/08/superdancer.jpg 1024w, assets/img/2017/08/superdancer.jpg 1920w"
+                                                    alt="Superdancer cover page">
+
+                                               
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div class="card--infos">
+
+                                    <div class="card--infos-inner">
+
+                                        <div class="card--infos-inner-bg"></div>
+
+                                        <div class="headline">
+
+                                            <h2 class="headline--title">Kashross Creation</h2>
+
+                                            <h3 class="headline--subtitle">
+
+                                                <div class="headline--stroke"></div>
+
+                                                <span></span>
+
+                                            </h3>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </a>
+
+                        </article>
+
+
+
+                        <article id="card-504" class="card post-504 post type-post status-publish format-standard hentry category-non-classe-en">
+
+                            <a class="card--link scroll-reveal" href="work/gneorganic/">
+
+                                <div class="card--bg">
+
+                                    <div class="card--bg-inner">
+
+                                        <div class="card--bg-superinner">
+
+                                            <div class="imgcrop">
+
+                                                <img data-src="assets/img/2017/08/divani.jpg" data-srcset="assets/img/2017/08/divani.jpg 300w, assets/img/2017/08/divani.jpg 150w, assets/img/2017/08/divani.jpg 768w, assets/img/2017/08/divani.jpg 1024w, assets/img/2017/08/divani.jpg 1920w"
+                                                    alt="Divani Cover Page image">
+
+                                               
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div class="card--infos">
+
+                                    <div class="card--infos-inner">
+
+                                        <div class="card--infos-inner-bg"></div>
+
+                                        <div class="headline">
+
+                                            <h2 class="headline--title">GNE Organics</h2>
+
+                                            <h3 class="headline--subtitle">
+
+                                                <div class="headline--stroke"></div>
+
+                                                <span></span>
+
+                                            </h3>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </a>
+
+                        </article>
+
+                    </section>
+
+
+
+
+
+
+
+                    <div class="beetbtn scroll-reveal">
+
+                        <div class="beetbtn--cont">
+
+                            <a class="beetbtn--btn" href="work/" offset-hover-max="0.5" offset-hover-min="0.5">
+
+                                <span>See more projects</span>
+
+                                <div class="beetbtn--btn-bg1"></div>
+
+                                <div class="beetbtn--btn-bg2"></div>
+
+                            </a>
+
+                        </div>
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="bover bover__txt scroll-reveal bover__nope">
+
+                        <div class="bover--bg1"></div>
+
+                        <div class="bover--bg2"></div>
+
+                        <div class="bover--inner">
+
+
+
+                            <div class="bover--headline">
+
+                                <div class="headline">
+
+                                    <h2 class="headline--title">Who we are</h2>
+
+                                    <h3 class="headline--subtitle">
+
+                                        <div class="headline--stroke"></div>
+
+                                        <span>NOT JUST THE BIG IDEA, THE RIGHT IDEA</span>
+
+                                    </h3>
+
+                                </div>
+
+                            </div>
+
+
+
+                            <div class="bover--content clearfix">
+
+                                <div class="grotxt">
+
+                                    <p class="p1">
+                                        <span class="s1">Great Designs make things BE Good, not just LOOK good. Accoladesigns helps you discover
+                                            your unique brand voice by developing great designs and brand experience to make
+                                            your customers realize your brand value, enabling us to create a distinctive
+                                            user interface for your customers which elevate your value. </span>
+                                    </p>
+
+                                </div>
+
+                                <div class="ptitxt">
+
+                                    <p class="p1">
+                                        <span class="s1">Wouldn’t you want your brand to be viral in this virtual and customer driven world?
+                                            Don’t you worry, because geeks are here to your rescue
+                                            <br>We, a bunch of exclusive geeks and creative enthusiasts, will achieve your goal
+                                            together on a road built on trust and friendship.strategic planning, deep analysis,
+                                            content creation, sharing resourceful insights with our brands is what helps
+                                            us have an edge over others.</span>
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+
+
+                        </div>
+
+                    </div>
+
+                    <div class="beetbtn scroll-reveal">
+
+                        <div class="beetbtn--cont">
+
+                            <a class="beetbtn--btn" href="studio/" offset-hover-max="0.5" offset-hover-min="0.5">
+
+                                <span>About the studio</span>
+
+                                <div class="beetbtn--btn-bg1"></div>
+
+                                <div class="beetbtn--btn-bg2"></div>
+
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                 
+
+                </section>
+
+            </div>
+
+            <footer class="foot">
+
+    <div class="foot--title">
+
+        Accoladesigns —
+
+        <a class="foot--link" href="/cdn-cgi/l/email-protection#f3909c9d9d969087b391869a9f87918a9496969880dd9a9d"><span class="__cf_email__" data-cfemail="a6c5c9c8c8c3c5d2e6c4d3cfcad2c4dfc1c3c3cdd588cfc8">[email&#160;protected]</span></a>
+
+    </div>
+
+    <div class="foot--copy">
+
+        <a href="https://www.facebook.com/builtbygeeks">
+
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+
+                <style>
+
+                    .st0 {
+
+                        fill: #fff
+
+                    }
+
+                </style>
+
+                <path id="fb" class="st0" d="M21.1 3.6v16.8c0 .4-.3.7-.7.7h-4.9l-.1-6.9h2.3l.6-2.9h-2.9V9.5c0-.8.3-1.4 1.4-1.4h1.5V5.7c-.2 0-1.1-.1-2.1-.1-2.1 0-3.6 1.2-3.6 3.5v2.3h-2.3v2.9h2.3v6.9h-9c-.4 0-.7-.3-.7-.8V3.6c0-.4.3-.7.7-.7h16.8c.4-.1.8.3.7.7z"
+
+                />
+
+            </svg>
+
+        </a>
+        <a href="https://www.instagram.com/accoladesigns"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><style>.st0{fill:#fff}</style><path id="insta" class="st0" d="M19 2.8H5c-1.2 0-2.2 1-2.2 2.2v14c0 1.2 1 2.2 2.2 2.2h14c1.2 0 2.2-1 2.2-2.2V5c0-1.2-1-2.2-2.2-2.2zm-2.4 2.3h1.7c.3 0 .6.2.6.6v1.7c0 .3-.2.6-.6.6h-1.7c-.4 0-.6-.2-.6-.6V5.7c0-.3.2-.6.6-.6zM12 8.5c1.9 0 3.5 1.5 3.5 3.5s-1.6 3.5-3.5 3.5-3.5-1.6-3.5-3.5 1.6-3.5 3.5-3.5zm6.9 10.9H5.1c-.3 0-.6-.2-.6-.6v-8.6h2.3c-.3.5-.4 1.2-.4 1.7 0 3.1 2.5 5.5 5.5 5.5 3.1 0 5.5-2.5 5.5-5.5 0-.5-.1-1.3-.5-1.7h2.3v8.6c.2.4 0 .6-.3.6z"/></svg></a>
+        <a href="https://plus.google.com/u/0/105190693908519771515">
+
+        <img src="/assets/img/logo/google-plus.png" width="24" alt="Instagram Icon"></img>
+
+        </a>
+        <a href="https://twitter.com/Builtbygeeks">
+
+        <img src="/assets/img/logo/twitter.png" width="24" alt="Twitter Icon"></img>
+
+        </a>
+        <a href="https://in.linkedin.com/company/accoladesigns">
+
+        <img src="data:image/png;base64,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" width="24" alt="LinkedIn "></img>
+
+        </a>
+        </a>
+        <a href="https://www.youtube.com/channel/UC0Kx-UmV6jMRL3dH1_ACV4g">
+
+        <img src="/assets/img/logo/youtube.png" width="24" alt="Youtube"></img>
+
+        </a>
+
+        <br class="smartphone-only"> — &copy; Builtbygeeks 
+
+        
+
+    </div>
+
+</footer>
+
+
+        </div>
+
+        <!-- scroll-container -->
+
+    </div>
+
+    
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/assets/js/all.js"></script>
+    <script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5acdf7704b401e45400e88df/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<script type="text/javascript">
+
+$(document).ready(function () {
+    //Disable cut copy paste
+    $('body').bind('cut copy paste', function (e) {
+        e.preventDefault();
+    });
+   
+    //Disable mouse right click
+    $("body").on("contextmenu",function(e){
+        return false;
+    });
+    
+});
+</script>
+<script>
+document.onkeypress = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+           //alert('No F-12');
+            return false;
+        }
+    }
+    document.onmousedown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+document.onkeydown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+    <script>
+</body>
+
+</html>
